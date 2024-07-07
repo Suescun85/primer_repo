@@ -11,3 +11,4 @@ function multiplicar(a, b) {
 }
 //test
 console.assert(multiplicar(5, 4) == 20);
+console.assert(suma(4, 20));

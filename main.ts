@@ -14,3 +14,4 @@ function multiplicar(a:number, b: number): number {
 
 //test
 console.assert(multiplicar(5, 4) == 20);
+console.assert(suma(4, 20));//Solo agregue esta linea para comprobar la descarga, modificacion y carga.
